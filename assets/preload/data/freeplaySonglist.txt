@@ -11,3 +11,4 @@ Dissasembler:rshaggy:0xFF7149A8
 Astral-calamity:wbshaggy:0xFF9C0079
 Talladega:zshaggy:0xFF686868
 BIG-SHOT:spamton:0xFF686868
+GOD-EATER-EEVEE:pshaggy:0xFF644073
